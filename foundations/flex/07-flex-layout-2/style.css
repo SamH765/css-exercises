@@ -48,3 +48,11 @@ body {
 .container {
   display: flex;
 }
+
+.sidebar-container {
+  display: flex;
+}
+
+.card-container {
+  display: flex;
+}
